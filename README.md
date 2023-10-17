@@ -178,16 +178,3 @@ The NTMS will support the following user roles with specific functionalities:
 - Integrate NTMS with open-source application servers for scalability and performance.
 
 ---
-
-## 5. Appendices
-
-### 5.1 Use Case Diagram
-(Insert Use Case Diagram here)
-
-### 5.2 Data Model
-(Include Data Model)
-
-### 5.3Glossary
-(Include a glossary of terms)
-
-
